@@ -1,0 +1,1 @@
+Brian's example of the CSS in class today was very helpful.  Seeing a page get built from nothing and having it look as good as it did was impressive. I tried to implement some of what he taught us into my project and I think it turned out alright, though of course there is room for improvement.
