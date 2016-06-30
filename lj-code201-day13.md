@@ -1,0 +1,2 @@
+#Learning Journal Day 13
+Today went fairly smoothly! I had to get a little guidance on where exactly to apply the functionality to log information to local storage, but after that I was able to puzzle out how to implement it!
