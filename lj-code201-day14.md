@@ -1,0 +1,2 @@
+#Learning Journal Day 14
+Today was pretty fun!  The Git hell assignment was a great way to figure out how to get yourself out of a bad gituation. I think the project pitch that our group came up with will be a fun final project! 
