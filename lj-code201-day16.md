@@ -1,0 +1,2 @@
+#Learning Journal Day 16
+Today was the first real day of project week and we got a lot of work done. It was fun working in pairs and with the four of us to tackle bugs we encountered or work through a tough piece of Javascript.  Frustrating, but fun!
