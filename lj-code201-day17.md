@@ -1,0 +1,2 @@
+#Learning Journal Day 17
+Today was a rougher day than yesterday. Ironing out a lot of the functionality to make it work better was frustrating work. There are also differences in opinion about how the page should be styled, with me wanting the footer to sit on the bottom of the screen if the page can't be scrolled, while everyone else seems fine with it how it is. 
