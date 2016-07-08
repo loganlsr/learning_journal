@@ -1,0 +1,2 @@
+#Learning Journal Day 18
+Today we reached MVP and spent the rest of the time working on stretch goals and practicing for our presentation.  I implemented the math.random(food) feature to our site and after making things way harder for myself than they needed to be, David helped point me in the right direction to get everything working smoothly.
